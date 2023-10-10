@@ -1,0 +1,8 @@
+# .dockerignore
+# .gitignore
+# builder.sh
+# Dockerfile
+# jars.txt
+# Jenkinsfile
+# *.properties
+# *.md
